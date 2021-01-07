@@ -7,7 +7,7 @@
 
 -->
 
-### Hi there 👋, Vinay Kakanuru
+## Hi there, I'm  Vinay Kakanuru 👋, 
 #### Senior Software Developer
 
 Skills: Python / Django / AWS / Postgresql / HTML / CSS
