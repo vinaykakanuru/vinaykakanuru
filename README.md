@@ -4,7 +4,7 @@
 - ⚡ Fun fact: ...
 - 💬 Ask me about ...
 - 🤔 I’m looking for help with ...
-
+[![Vinay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinaykakanuru)](https://github.com/)
 -->
 
 ## Hi there, I'm  Vinay Kakanuru 👋, 
@@ -19,8 +19,8 @@ Skills: Python / Django / AWS / Postgresql / HTML / CSS
 
 
 ![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinaykakanuru&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru)](https://github.com/)
-[![Vinay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinaykakanuru)](https://github.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru&show_icons=true&theme=radical)](https://github.com/)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/vinaykakanuru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vinay-kumar-reddy-k-aa662b1a4//)  
 
