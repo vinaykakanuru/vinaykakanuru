@@ -22,5 +22,5 @@ Skills: Python / Django / AWS / Postgresql / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru&show_icons=true&theme=radical&exclude_repo=Natural-Language-Processing-Projects,Machine-Learning-Projects)](https://github.com/vinaykakanuru/)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vinaykakanuru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru-aa662b1a4/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vinaykakanuru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)  
 
