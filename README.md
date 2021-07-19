@@ -10,11 +10,11 @@
 ## Hi there, I'm  Vinay Kakanuru 👋, 
 #### Senior Software Developer
 
-Skills: Python / Django / AWS / Postgresql / HTML / CSS
+Skills: Python | Django | AWS | Postgresql | Vue Js
 
 - 🔭 I’m currently working on Python and Django Technologies 
 - 🌱 I’m currently learning Cloud and Machine Learning 
-- 👯 I’m looking to collaborate on DevOps 
+- 👯 I’m looking to collaborate with DevOps 
 - 📫 How to reach me: https://vinaykakanuru.herokuapp.com 
 
 
