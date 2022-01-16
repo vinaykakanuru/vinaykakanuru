@@ -19,7 +19,7 @@ Skills: Python | Django | AWS | Postgresql | Vue Js
 
 <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>] [![Linkedin Badge](https://img.shields.io/badge/-VinayKumarReddyKakanuru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)
+[![Linkedin Badge](https://img.shields.io/badge/-VinayKumarReddyKakanuru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)
 
 [![Gmail Badge](https://img.shields.io/badge/-kvinaykumarreddy1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kvinaykumarreddy1995@gmail.com)](mailto:kvinaykumarreddy1995@gmail.com)
 
