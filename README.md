@@ -38,6 +38,10 @@ Skills: Python | Django | AWS | Postgresql | Vue Js
 
 <hr>
 
+[![Vinay's github activity graph](https://activity-graph.herokuapp.com/graph?username=vinaykakanuru&theme=react-dark)](https://github.com/vinaykakanuru/github-readme-activity-graph)
+
+<hr>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru&show_icons=true&theme=radical&exclude_repo=Natural-Language-Processing-Projects,Machine-Learning-Projects)](https://github.com/vinaykakanuru/) -->
 
 
