@@ -16,10 +16,11 @@ Skills: Python | Django | AWS | Postgresql | Vue Js
 - 🌱 I’m currently learning Cloud and Machine Learning 
 - 👯 I’m looking to collaborate with DevOps 
 - 📫 How to reach me: https://vinaykakanuru.herokuapp.com 
-
+<hr>
  📶 Stats:<br><br>
 ![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinaykakanuru&show_icons=true&theme=radical&layout=compact&align=right&width=40%)
  ---
+ <hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru&show_icons=true&theme=radical&exclude_repo=Natural-Language-Processing-Projects,Machine-Learning-Projects)](https://github.com/vinaykakanuru/)
 
 
