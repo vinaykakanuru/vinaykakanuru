@@ -19,7 +19,7 @@ Skills: Python | Django | AWS | Postgresql | Vue Js
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-VinayKumarReddyKakanuru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>] [![Linkedin Badge](https://img.shields.io/badge/-VinayKumarReddyKakanuru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)
 
 [![Gmail Badge](https://img.shields.io/badge/-kvinaykumarreddy1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kvinaykumarreddy1995@gmail.com)](mailto:kvinaykumarreddy1995@gmail.com)
 
@@ -38,5 +38,5 @@ Skills: Python | Django | AWS | Postgresql | Vue Js
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru&show_icons=true&theme=radical&exclude_repo=Natural-Language-Processing-Projects,Machine-Learning-Projects)](https://github.com/vinaykakanuru/)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vinaykakanuru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)  
-
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vinaykakanuru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)  
+ -->
