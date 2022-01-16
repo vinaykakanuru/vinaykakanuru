@@ -26,8 +26,11 @@ Skills: Python | Django | AWS | Postgresql | Vue Js
 <hr>
 
  📶 Stats:<br><br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<hr>
+ 
 ![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinaykakanuru&show_icons=true&theme=radical&layout=compact&align=right&width=40%)
- ---
 
 <hr>
 
@@ -35,7 +38,7 @@ Skills: Python | Django | AWS | Postgresql | Vue Js
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru&show_icons=true&theme=radical&exclude_repo=Natural-Language-Processing-Projects,Machine-Learning-Projects)](https://github.com/vinaykakanuru/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykakanuru&show_icons=true&theme=radical&exclude_repo=Natural-Language-Processing-Projects,Machine-Learning-Projects)](https://github.com/vinaykakanuru/) -->
 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vinaykakanuru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vinay-kumar-reddy-kakanuru/)  
