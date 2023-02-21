@@ -8,14 +8,12 @@
 -->
 
 ## Hi there, I'm  Vinay Kakanuru 👋, 
-#### Senior Software Developer
+#### Senior Cloud Engineer
 
-Skills: Python | Django | AWS | Postgresql | Vue Js
+Skills: Python | Django | AWS | Azure | Postgresql | Vue Js
 
-- 🔭 I’m currently working on Python and Django Technologies 
-- 🌱 I’m currently learning Cloud and Machine Learning 
+- 🔭 I’m currently working on Python with Cloud
 - 👯 I’m looking to collaborate with DevOps 
-- 📫 How to reach me: https://vinaykakanuru.herokuapp.com 
 
 <br>
 
